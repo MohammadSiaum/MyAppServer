@@ -1,0 +1,56 @@
+[
+    {
+      "image": "image",
+      "fullName": "Sabbir Uddin",
+      "medicalName": "Dr. Sabbir",
+      "degrees": ["MBBS", "MBBS2"],
+      "registrationNo": "23402342541",
+      "dateOfBirth": 2015,
+      "specialty": "medicine",
+      "gender": "Male",
+      "phone": "5095943232",
+      "email": "drsabbir@gmail.com",
+      "religion": "Islam",
+      "presentAddress": {
+        "country": "Bangladesh",
+        "state": "Mirpur-1",
+        "city": "Dhaka",
+        "zip": "1212",
+        "apartment": "slot-2"
+      },
+      "permanentAddress": {
+        "country": "Bangladesh",
+        "state": "Dhanmondi",
+        "city": "Dhaka",
+        "zip": "1212",
+        "apartment": "slot-1"
+      }
+    },
+    {
+        "image": "image",
+        "fullName": "Farhana Islam",
+        "medicalName": "Dr. Farhana",
+        "degrees": ["MBBS", "MBBS2"],
+        "registrationNo": "234023425435",
+        "dateOfBirth": 2020,
+        "specialty": "medicine",
+        "gender": "Male",
+        "phone": "5095943232",
+        "email": "drfarhana@gmail.com",
+        "religion": "Islam",
+        "presentAddress": {
+          "country": "Bangladesh",
+          "state": "Mirpur-4",
+          "city": "Dhaka",
+          "zip": "1212",
+          "apartment": "slot-2"
+        },
+        "permanentAddress": {
+          "country": "Bangladesh",
+          "state": "Dhanmondi",
+          "city": "Dhaka",
+          "zip": "1212",
+          "apartment": "slot-1"
+        }
+      }
+]
